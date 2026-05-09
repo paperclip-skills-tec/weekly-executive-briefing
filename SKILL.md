@@ -1,16 +1,6 @@
 ---
 name: weekly-executive-briefing
-description: >
-  Canonical protocol for producing the Weekly Executive Briefing — a structured
-  vault document that gives Matt a consistent, scannable summary of all active
-  projects every week. Use this skill whenever the Weekly Executive Briefing
-  routine fires, whenever an agent is asked for a weekly summary, executive
-  briefing, project status roundup, or "how are all the projects going". Also
-  use for any ad-hoc executive summary request even outside the scheduled
-  routine. This skill defines the exact sections, data sources, output file
-  location, RAG status rules, and cross-linking requirements — do not free-form
-  the briefing format, even when the request looks simple. Consistency across
-  weeks is the point.
+description: "Canonical protocol for producing the Weekly Executive Briefing — a structured vault document that gives Matt a consistent, scannable summary of all active projects every week. Use this skill whenever the Weekly Executive Briefing routine fires, whenever an agent is asked for a weekly summary, executive briefing, project status roundup, or \"how are all the projects going\". Also use for any ad-hoc executive summary request even outside the scheduled routine. This skill defines the exact sections, data sources, output file location, RAG status rules, and cross-linking requirements — do not free-form the briefing format, even when the request looks simple. Consistency across weeks is the point."
 ---
 
 ## Purpose
